@@ -44,7 +44,7 @@ Features:
 6.	Code should be readable. Follow good coding practices:
 7.	Use intuitive variable names, function names, class names etc.
 8.	Indent code properly.
-9.	Once the code is complete please zip the source code and upload it to:  https://docs.google.com/forms/d/e/1FAIpQLSfzz8HH6fLso7NLgqJ0kC0TYP-tZhC2XhTN4EdI2c6OC1v2XA/viewform
+
 Sample Test Case:
 All the inputs here are just indicating the high level inputs that function should accept. You are free to model entities as per your choice.
 
