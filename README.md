@@ -5,7 +5,7 @@
    <body class="c4 c18">
       <h1 class="c5" id="h.g4ms7p50hwuz"><span class="c15">Foodkart:</span></h1>
       <h4 class="c11" id="h.g1oj7efeaa95"><span class="c14">Description:</span></h4>
-      <p class="c13"><span class="c0">Flipkart is starting a new online food ordering service. In this Service, users can order food from a restaurant which is serviceable in their area and the restaurant will deliver it.</span></p>
+      <p class="c13"><span class="c0">Foodkart is starting a new online food ordering service. In this Service, users can order food from a restaurant which is serviceable in their area and the restaurant will deliver it.</span></p>
       <h4 class="c11" id="h.i01wbcufj0mj"><span class="c14">Features:</span></h4>
       <ol class="c12 lst-kix_6xrkt1cx7bq2-0 start" start="1">
          <li class="c1 c3 li-bullet-0"><span class="c0">Restaurants can only serve one specialized dish.</span></li>
