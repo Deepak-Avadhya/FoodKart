@@ -1,6 +1,6 @@
 Foodkart:
 Description:
-Flipkart is starting a new online food ordering service. In this Service, users can order food from a restaurant which is serviceable in their area and the restaurant will deliver it.
+Foodkart is starting a new online food ordering service. In this Service, users can order food from a restaurant which is serviceable in their area and the restaurant will deliver it.
 Features:
 1.	Restaurants can only serve one specialized dish.
 2.	Restaurants can serve in multiple areas.
